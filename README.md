@@ -1,0 +1,2 @@
+# killbugs
+bugs manager 
